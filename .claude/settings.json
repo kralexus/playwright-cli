@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node /home/user/playwright-cli/playwright-cli.js:*)"
+    ]
+  }
+}
